@@ -1,0 +1,25 @@
+.pergunta{
+    background-color: #ccc;
+    border-left: solid 6px #63be00;
+    cursor: pointer;
+    padding: 10px;
+    width: 500px;
+
+}
+
+.resposta{
+    display: none;
+}
+.teste{
+    width: 500px;
+}
+span{
+    color: red;
+    margin-left: 15px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+span:hover{
+    font-size: 16px;
+}

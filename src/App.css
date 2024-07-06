@@ -1,0 +1,13 @@
+.painel{
+  background-color: #eeeded;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  margin-top: 40px;
+}
+
+.container-perguntas{
+  display: flex;
+  flex-direction: column;
+}
